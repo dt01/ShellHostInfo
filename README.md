@@ -1,0 +1,2 @@
+# ShellHostInfo
+CMD HostInfo
